@@ -119,3 +119,13 @@ xstc/Makefile
 xstc/Makefile.in
 xstc/Tests
 xstc/xsts-*.tar.gz
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Debug/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.sdf
+*.suo
+*.opensdf
