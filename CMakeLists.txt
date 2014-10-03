@@ -239,7 +239,7 @@ SET(xmllint_SRCS
 
 add_executable(xmllint ${xmllint_SRCS})
 
-target_link_libraries(xmllint)
+target_link_libraries(xmllint xml2)
 
 install(TARGETS xmllint DESTINATION bin)
 
